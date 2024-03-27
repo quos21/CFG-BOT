@@ -6,3 +6,4 @@ plotly
 tzwhere
 streamlit_folium
 bs4
+py2cfg
